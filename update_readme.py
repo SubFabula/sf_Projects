@@ -54,6 +54,7 @@ def generate_markdown(projects):
     return markdown_content
 
 def update_readme(content):
+    print("Updating README content...")
     # Read the README.md file
     with open('README.md', 'r') as file:
         readme_content = file.read()
@@ -63,6 +64,7 @@ def update_readme(content):
     # Write the updated content back to the README.md file
     with open('README.md', 'w') as file:
         file.write(updated_readme)
+    print("README content updated successfully.")
 
 def main():
     projects = fetch_latest_projects()
