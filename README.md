@@ -1,5 +1,3 @@
-<link rel="icon" type="image/x-icon" href="Assets/Icon/sf_Projects Icon.ico">
-
 # Welcome to Projects Page
 
 [Main-Home](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](https://subfabula.github.io/sf_Projects/)
@@ -14,7 +12,7 @@ In this place, I make Projects that I'm involved in, whether with a team or inde
 
 ### [QR-Plus](https://subfabula.github.io/QR-Plus/)
 <div style="display: inline-block; margin-right: 20px;">
-    ![QR-Plus Icon](Assets\Icon\QR+ Icon.ico)
+    ![QR-Plus Intro.gif](Assets/Projects File's/QR+ Intro.gif)
 </div>
 [This is a Website for the QR+ Team, which is a team in Teknofest.](https://subfabula.github.io/QR-Plus/about.html)
 
