@@ -10,4 +10,10 @@ In this place, I make Projects that I'm involved in, whether with a team or inde
 
 ## Latest Projects
 
+### [QR-Plus](https://subfabula.github.io/QR-Plus/)
+<div style="display: inline-block; margin-right: 20px;">
+    ![QR-Plus Icon](Assets\Icon\favicon.ico)
+</div>
+[About](https://subfabula.github.io/QR-Plus/about.html)
+
 <!-- Placeholder for dynamically generated content -->
