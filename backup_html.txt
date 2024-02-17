@@ -1,2 +1,2 @@
-*none
+*none.
 This is just a back up for html.
