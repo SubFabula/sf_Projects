@@ -8,4 +8,6 @@ Welcome to my Projects site!
 
 In this place, I make Projects that im in with team or indie. There are not much right now but im wishing that there will be more Projects that im going to make or become a part of.
 
+## Latest Projects
 
+<!-- Placeholder for dynamically generated content -->
