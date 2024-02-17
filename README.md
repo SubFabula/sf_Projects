@@ -1,4 +1,4 @@
-[comment]: <> (<link rel="icon" type="image/x-icon" href="Assets/Icon/sf_Projects Icon.ico">)
+<link rel="icon" type="image/x-icon" href="Assets/Icon/sf_Projects Icon.ico">
 
 # Welcome to Projects Page
 
