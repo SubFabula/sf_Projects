@@ -4,7 +4,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily
+    - cron: '* * * * *'  # Run every minute
 
 jobs:
   build:
