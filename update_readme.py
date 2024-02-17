@@ -7,7 +7,7 @@ def fetch_latest_projects():
 
     # Define a list of repositories
     repositories = [
-        {'username': 'subfabula', 'repository_name': 'QR-Plus'},
+        {'username': 'SubFabula', 'repository_name': 'QR-Plus'},
         # Add more repositories as needed
     ]
     
