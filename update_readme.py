@@ -1,10 +1,8 @@
+# update_readme.py
+
 import requests
 
 def fetch_latest_projects():
-    # Make requests to the GitHub API to fetch the latest projects from multiple repositories
-    # Parse the responses to extract project information
-    # Return a list of project details (name, description, URL, icon/image URL)
-
     # Define a list of repositories
     repositories = [
         {'username': 'SubFabula', 'repository_name': 'QR-Plus'},
@@ -48,9 +46,11 @@ def fetch_latest_projects():
 
 def generate_markdown(projects):
     # Generate Markdown content for each project
-    markdown_content = ""
+    markdown_content = "## Latest Projects\n\n"
     for project in projects:
-        markdown_content += f"- [{project['name']}]({project['url']}) - {project['description']}\n"
+        markdown_content += f"### [{project['name']}]({project['url']})\n\n"
+        markdown_content += f"- Description: {project['description']}\n\n"
+        # Add other project details as needed
     return markdown_content
 
 def update_readme(content):
