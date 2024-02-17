@@ -1,5 +1,6 @@
 <!-- Add the favicon -->
-<link rel="icon" type="image/x-icon" href="path/to/your/sf_Projects.ico">
+<link rel="icon" type="image/x-icon" href="Assets\Icon\sf_Projects.ico">
+
 # Welcome to Projects Page
 
 [Main-Home](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](https://subfabula.github.io/sf_Projects/)
