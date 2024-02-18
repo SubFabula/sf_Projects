@@ -21,9 +21,9 @@ This is a Website for the QR+ Team, which is a team in Teknofest.
 <!-- Placeholder for dynamically generated content -->
 
 <!-- Empty Comment for Space Between Auto-Gen GitHub Socials -->
+---
 <!-- Empty Comment -->
-<!-- Empty Comment -->
-<!-- Empty Comment -->
+---
 <!-- Empty Comment -->
 
 ---
