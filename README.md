@@ -10,12 +10,9 @@ In this place, I make Projects that I'm involved in, whether with a team or inde
 
 ## Latest Projects
 
-<div style="display: flex; align-items: center;">
-    ![QR+ Intro GIF](https://raw.githubusercontent.com/SubFabula/sf_Projects/main/Assets/Projects%20File%27s/QR%2B%20Intro.gif){: .align-right}
-    <div>
-        ### [QR-Plus](https://subfabula.github.io/QR-Plus/)
-        This is a Website for the QR+ Team, which is a team in Teknofest.
-    </div>
-</div>
+[QR+ Intro GIF](https://raw.githubusercontent.com/SubFabula/sf_Projects/main/Assets/Projects%20File%27s/QR%2B%20Intro.gif)
+
+### [QR-Plus](https://subfabula.github.io/QR-Plus/)
+This is a Website for the QR+ Team, which is a team in Teknofest.
 
 <!-- Placeholder for dynamically generated content -->
