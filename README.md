@@ -13,7 +13,7 @@ In this place, I make Projects that I'm involved in, whether with a team or inde
 ### <span style="color: #00008B;">**[QR-Plus](https://subfabula.github.io/QR-Plus/)**</span>
 
 <div style="display: flex; align-items: center;">
-    ![QR+ Intro GIF](SubFabula/sf_Projects/assets/pj_file/qr-intro.gif){: .align-right}
+    ![QR+ Intro GIF](/assets/pj_file/qr-intro.gif){: .align-right}
     This is a Website for the QR+ Team, which is a team in Teknofest.
 </div>
 
