@@ -1,5 +1,4 @@
-Projects
-# Welcome to Projects Page
+# Projects
 
 [Main-Home](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](https://subfabula.github.io/sf_Projects/)
 
@@ -22,6 +21,6 @@ This is a Website for the QR+ Team, which is a team in Teknofest.
 
 <!-- Placeholder for dynamically generated content -->
 
-<sub>Thank you for visiting!</sub>
+ <sub>Thank you for visiting!</sub> 
 
 <!-- GitHub will automatically add your social links below this line -->
