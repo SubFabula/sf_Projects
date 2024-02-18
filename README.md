@@ -23,8 +23,4 @@ This is a Website for the QR+ Team, which is a team in Teknofest.
 
 <sub>Thank you for visiting!</sub>
 
-<!-- Comment and a Horizantel Line for space between Auto-Gen. GitHub Socials -->
-
----
-
 <!-- GitHub will automatically add your social links below this line -->
