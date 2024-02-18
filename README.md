@@ -1,4 +1,4 @@
-<!-- Projects -->
+Projects
 # Welcome to Projects Page
 
 [Main-Home](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](https://subfabula.github.io/sf_Projects/)
