@@ -16,6 +16,7 @@ In this place, I make Projects that I'm involved in, whether with a team or inde
 
 ### [**QR-Plus**](https://subfabula.github.io/QR-Plus/)
 <img src="assets/pj_file/qr-intro.gif" width="200" style="float:left; margin-right:10px;">
+<br clear="left">
 This is a Website for the QR+ Team, which is a team in Teknofest.
 
 <!-- Placeholder for dynamically generated content -->
