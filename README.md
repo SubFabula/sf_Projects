@@ -18,7 +18,7 @@ In this place, I make Projects that I'm involved in, whether with a team or inde
 <div style="display: flex; align-items: center;">
     <div style="position: relative;">
         <img src="assets/pj_file/qr-intro.gif" width="200" style="position: relative;">
-        <img src="assets/pj_file/qr_discontinued-tape.png" width="200" style="position: absolute; top: 0; left: 0;">
+        <img src="assets/pj_file/discontinued-tape.png" width="200" style="position: absolute; top: 0; left: 0;">
     </div>
     <p style="margin-left: 10px;">This _was_ a Website for the QR+ Team, which _were_ a team in Teknofest.</p>
 </div>
