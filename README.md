@@ -17,8 +17,8 @@ In this place, I make Projects that I'm involved in, whether with a team or inde
 ### ~~[**QR-Plus**](https://subfabula.github.io/QR-Plus/)~~
 <div style="display: flex; align-items: center;">
     <div style="position: relative;">
-        <img src="assets/pj_file/qr-intro.gif" width="200" style="position: relative;">
-        <img src="assets/pj_file/discontinued-tape.png" width="200" style="position: absolute; top: 0; left: 0;">
+        <img src="assets/pj_file/qr-intro.gif" width="400" style="position: relative;">
+        <img src="assets/pj_file/discontinued-tape.png" width="400" style="position: absolute; top: 0; left: 0;">
     </div>
     <div style="margin-left: 10px;">
         <p><b>REASON OF DISCONTINUATION</b><br>The QR+ Team in the Teknofest got eliminated on the 4th Stage which resulted in the discontinuation of this WebSite.</p>
