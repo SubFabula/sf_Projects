@@ -15,8 +15,11 @@ In this place, I make Projects that I'm involved in, whether with a team or inde
 ## Latest Projects
 
 ### [**QR-Plus**](https://subfabula.github.io/QR-Plus/)
-<img src="assets/pj_file/qr-intro.gif" width="200" style="float:left; margin-right:10px;">
-This _was_ a Website for the QR+ Team, which _were_ a team in Teknofest.
+<div style="position: relative;">
+    <img src="assets/pj_file/qr-intro.gif" width="200" style="position: relative;">
+    <img src="assets/pj_file/qr_discontinued-tape.png" width="200" style="position: absolute; top: 0; left: 0;">
+</div>
+This _ was _ a Website for the QR+ Team, which _ were _ a team in Teknofest.
 <br clear="left">
 
 <!-- Placeholder for dynamically generated content -->
